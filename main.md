@@ -1,5 +1,5 @@
 # CircleCI 2.0
-
+1;5001;0c
 ---
 
 ## CircleCIとは
@@ -70,3 +70,4 @@ immutableなので、消さない、変更しない
 ## CircleCI2.0まとめ
 - dockerで速い
 - immutable cacheで速い
+- エンジニアの汗で速い
