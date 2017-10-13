@@ -1,5 +1,5 @@
 # CircleCI 2.0
-1;5001;0c
+
 ---
 
 ## CircleCIとは
